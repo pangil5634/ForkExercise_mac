@@ -1,3 +1,4 @@
 this is text file that written at mac.
 -> oh it's awesome! (window)
+-> Thank U! (mac)
 -> is mac good? (window)
