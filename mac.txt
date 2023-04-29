@@ -3,4 +3,5 @@ this is text file that written at mac.
 -> Thank U! (mac)
 -> is mac good? (window)
 -> Do you know him? (mac)
+->-> oh i know him, kwangil right? (window)
 -> His name is seng joo (mac)
